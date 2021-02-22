@@ -1,0 +1,4 @@
+0 Empty
+1 10 dollar
+2 20 dollar
+3 50 dollar
